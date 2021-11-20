@@ -1,1 +1,2 @@
-console.log("pep");
+const name ='nader';
+console.log(name);
