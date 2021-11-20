@@ -1,1 +1,2 @@
-console.log("nader");
+const name ='nader';
+console.log(name);
